@@ -685,6 +685,7 @@ MonoBehaviour:
   cube: {fileID: 1930491187}
   sphere: {fileID: 756676201}
   capsule: {fileID: 305258774}
+  sizeSlider: {fileID: 931992416}
 --- !u!1 &562978083
 GameObject:
   m_ObjectHideFlags: 0

@@ -23,4 +23,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/FifthPrototype.unity
     guid: 070cfbc62a73baf4db31e4005e25c232
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: b3ad8058b45028d4283d5cec0cd29d5c,
+      type: 2}
